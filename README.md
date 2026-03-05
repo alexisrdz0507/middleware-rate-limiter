@@ -71,9 +71,11 @@ HU-06	Como administrador, quiero un endpoint de prueba /api/data	• Endpoint fu
 • Registro de peticiones
 HU-07	Como desarrollador, quiero un script de simulación de tráfico	• 100 IPs normales (2-5 req/s)
 • 10 IPs maliciosas (50-100 req/s)
+
 Autor: Alexis
 
 GitHub: @alexisrdz0507
 
 ## Proyecto Académico
 Este proyecto es parte del Proyecto Integrador Dual de la carrera Ingeniería en Sistemas Computacionales.
+
