@@ -17,11 +17,11 @@ scraping y DDoS a nivel de aplicación. Implementa algoritmo Token Bucket con Re
 ## Estructura del Proyecto
 
 1.- app/ # Código principal
-│ 1.1 main.py # Punto de entrada
-│ 1.2 middleware/ # Lógica de rate limiting
-│ 1.3 models/ # Modelos de base de datos
-│ 1.4 routes/ # Endpoints de prueba
-│ 1.5utils/ # Utilidades (Redis, logger)
+    1.1 main.py # Punto de entrada
+    1.2 middleware/ # Lógica de rate limiting
+    1.3 models/ # Modelos de base de datos
+    1.4 routes/ # Endpoints de prueba
+    1.5utils/ # Utilidades (Redis, logger)
 2.- scripts/ # Simulación de tráfico
 3.- tests/ # Pruebas
 4.- docs/ # Documentación
@@ -74,3 +74,6 @@ HU-07	Como desarrollador, quiero un script de simulación de tráfico	• 100 IP
 Autor: Alexis
 
 GitHub: @alexisrdz0507
+
+## Proyecto Académico
+Este proyecto es parte del Proyecto Integrador Dual de la carrera Ingeniería en Sistemas Computacionales.
